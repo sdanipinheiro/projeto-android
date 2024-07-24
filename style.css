@@ -20,8 +20,7 @@ h1 {
 
 header {
     background-image: linear-gradient(#3CD882, #195835);
-    height: auto;
-    width: auto;
+    height: 190px;
 }
 
 #cabecalho {
@@ -45,7 +44,6 @@ header {
 
 nav {
     margin-top: 25px;
-    padding-bottom: 10px;
 }
 
 nav > a{
