@@ -112,7 +112,7 @@ strong {
     color: #23854d;
 }
 
-main > img {
+article img {
     display: block;
     margin: auto;
 }
