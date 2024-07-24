@@ -163,6 +163,7 @@ li::before {
 }
 
 footer {
+    display: block;
     margin-top: 10px;
     margin-right: 0px;
     padding: 5px;
