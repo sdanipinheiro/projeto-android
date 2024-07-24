@@ -112,16 +112,14 @@ strong {
     color: #23854d;
 }
 
-article picture {
+picture {
     display: block;
     margin: auto;
-    text-align: center;
 }
 
-article img {
+img {
     display: block;
     margin: auto;
-    text-align: center;
 }
 
 #video {
