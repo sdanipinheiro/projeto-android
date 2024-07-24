@@ -163,6 +163,7 @@ li::before {
 
 footer {
     margin-top: 10px;
+    margin-right: 0px;
     padding: 5px;
     background-color: #195B36;
     text-align: center;
