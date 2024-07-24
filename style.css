@@ -37,6 +37,7 @@ header {
 }
 
 #cabecalho > p {
+    display: block;
     width: 450px;
     margin: auto;
     padding: 0px;
