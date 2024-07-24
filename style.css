@@ -62,7 +62,8 @@ nav > a:hover {
 
 main {
     background-color: white; 
-    width: min-content;
+    min-width: 300px;
+    max-width: 1000px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
     padding-bottom: 15px;
@@ -168,7 +169,6 @@ footer {
     background-color: #195B36;
     text-align: center;
     color: white;
-    width: max-content;
 }
 
 footer > p {
