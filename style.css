@@ -20,7 +20,7 @@ h1 {
 
 header {
     background-image: linear-gradient(#3CD882, #195835);
-    height: 190px;
+    min-height: 190px;
 }
 
 #cabecalho {
