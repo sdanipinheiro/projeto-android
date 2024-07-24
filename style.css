@@ -173,6 +173,7 @@ footer {
     background-color: #195B36;
     text-align: center;
     color: white;
+    padding: 0px;
 }
 
 footer > p {
