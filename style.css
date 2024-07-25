@@ -54,7 +54,7 @@ nav > a{
     text-decoration: none;
     margin-left: 5px;
     padding: 10px;
-    border-radius: 4px 4px 0px 0px;
+    border-radius: 4px;
     transition-duration: 0.5s;
 }
 
@@ -64,7 +64,8 @@ nav > a:hover {
 
 main {
     background-color: white; 
-    width: min-content;
+    min-width: 300px;
+    max-width: 1000px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
     padding-bottom: 15px;
