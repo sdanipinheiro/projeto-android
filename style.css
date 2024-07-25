@@ -42,10 +42,10 @@ header {
     max-width: 450px;
     margin: auto;
     padding: 0px;
+    padding-bottom: 20px;
 }
 
 nav {
-    margin-top: 25px;
     padding: 10px;
 }
 
