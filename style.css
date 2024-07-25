@@ -119,9 +119,8 @@ picture {
     margin: auto;
 }
 
-img {
-    display: block;
-    margin: auto;
+main img {
+    width: 100%;
 }
 
 #video {
